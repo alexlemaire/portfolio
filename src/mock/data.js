@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: `I'm a self-taught developer who used to be an engineer, but in another field! Currently based in Berlin, I love to tinker with code and learn new technologies. Anything even remotely related to science sparkles my curiosity and I like to share my knowledge and coach people whenever I can. Besides IT, I am also an avid competitive gamer! 🎮`,
   paragraphTwo: `Some of the technologies I use: JavaScript, Node, Express, Elasticsearch, HTML5/CSS3, Polymer/lit-element, SPA, Websockets, GitHub Actions, MySQL, DynamoDB, AWS, GCP and the list keeps going on...`,
   paragraphThree:
-    'Projects listed below are some of the open source work I did. I also contributed on closed source apps which unfortunately cannot be shown here!',
+    'Projects listed below are some of the open source work I did. I also contributed on closed source apps which unfortunately cannot be shown here.',
   resume: 'https://drive.google.com/file/d/1QbBljYzuB8ZiMicjKK7GEyUE-ffRlat5/view?usp=sharing', // if no resume, the button will not show up
 };
 
