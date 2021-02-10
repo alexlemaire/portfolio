@@ -71,5 +71,15 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "kaskadi": {
+    "s3-push": {
+      "files": [
+        {
+          "src": "public/",
+          "dest": "public/"
+        }
+      ]
+    }
   }
 }
