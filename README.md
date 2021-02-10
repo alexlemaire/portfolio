@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/live-example-orange)](https://portfolio.alexis-lemaire.net)
 
-[![Deploy status](https://img.shields.io/github/workflow/status/alexlemaire/portfolio/publish?label=deploy&logo=Amazon%20AWS)](https://github.com/alexlemaire/portfolio/actions?query=workflow%3Adeploy)
+[![Deploy status](https://img.shields.io/github/workflow/status/alexlemaire/portfolio/deploy?label=deploy&logo=Amazon%20AWS)](https://github.com/alexlemaire/portfolio/actions?query=workflow%3Adeploy)
 
 ---
 
